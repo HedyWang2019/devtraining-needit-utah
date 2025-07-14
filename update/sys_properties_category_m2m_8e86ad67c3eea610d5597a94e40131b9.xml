@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Test Properties For Needit">56f56d27c3eea610d5597a94e40131d9</category>
+        <order>100</order>
+        <property display_value="x_58872_needit.logging.verbosity" name="x_58872_needit.logging.verbosity">e5c2a1a3c3eea610d5597a94e401313e</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-11 07:53:39</sys_created_on>
+        <sys_id>8e86ad67c3eea610d5597a94e40131b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.logging.verbosity.Test Properties For Needit</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_8e86ad67c3eea610d5597a94e40131b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-11 07:53:39</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
