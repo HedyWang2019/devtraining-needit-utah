@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ed961004c387ae10d5597a94e401316f" label="test_0725" max_length="40" name="x_58872_needit_test_0725" type="collection">
+        <element label="Field 1" max_length="40" name="field_1" type="string"/>
+        <element label="Field 3" max_length="40" name="field_3" type="string"/>
+        <element label="Field 5" max_length="40" name="field_5" type="string"/>
+        <element label="Field 4" max_length="40" name="field_4" type="string"/>
+        <element label="Field 2" max_length="40" name="field_2" type="string"/>
+    </element>
+</database>
